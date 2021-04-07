@@ -87,7 +87,7 @@ if(data.InstallationInstructions != ``){
 <a name="installation"></a>
 ## Installation
     
-        ${data.InstallationInstructions}`;
+${data.InstallationInstructions}`;
 
     tableOfContentsData = tableOfContentsData + `
 [Installation](#installation)<br>`
@@ -107,7 +107,7 @@ if(data.UsageInfo != ``){
 <a name="usage"></a>
 ## Usage
 
-    ${data.UsageInfo}`;
+${data.UsageInfo}`;
 
     tableOfContentsData = tableOfContentsData + `
 [Usage](#usage)<br>`
@@ -127,7 +127,7 @@ if(data.Licensing != ``){
 <a name="license"></a>
 ## License
 
-    ${data.Licensing}`;
+${data.Licensing}`;
 
     tableOfContentsData = tableOfContentsData + `
 [License](#license)<br>`
@@ -147,7 +147,7 @@ if(data.ContributionGuidelines != ``){
 <a name="contributing"></a>
 ## Contributing
 
-    ${data.ContributionGuidelines}`;
+${data.ContributionGuidelines}`;
 
     tableOfContentsData = tableOfContentsData + `
 [Contributing](#contributing)<br>`
@@ -167,7 +167,7 @@ if(data.TestInstructions != ``){
 <a name="tests"></a>
 ## Tests
 
-    ${data.TestInstructions}`;
+${data.TestInstructions}`;
 
     tableOfContentsData = tableOfContentsData + `
 [Tests](#tests)`
