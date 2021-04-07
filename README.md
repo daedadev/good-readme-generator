@@ -1,7 +1,7 @@
 # Good Readme Generator
 
 ## Description
-    In this project I was given the assignment of creating a program using node that would accept the users input and, through a series of questions, take the responses and generate a Readme file using correct formatting. <br> This program is to be used as a quick and easy way to create a Readme file for a new project.
+In this project I was given the assignment of creating a program using node that would accept the users input and, through a series of questions, take the responses and generate a Readme file using correct formatting. <br> This program is to be used as a quick and easy way to create a Readme file for a new project. This Readme file was generated using this program!
     
 ##### Table of Contents
 [Installation](#installation)<br>

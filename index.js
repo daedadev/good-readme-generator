@@ -53,7 +53,7 @@ let titleData = `# ${data.Title}`
 let descriptionData = `
 
 ## Description
-    ${data.Description}`
+${data.Description}`
 
 let tableOfContentsData;
 let installationData;
