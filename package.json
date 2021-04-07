@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Readme Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wron1/good-readme-generator.git"
+  },
+  "author": "wron1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wron1/good-readme-generator/issues"
+  },
+  "homepage": "https://github.com/wron1/good-readme-generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.0.0"
+  }
+}
