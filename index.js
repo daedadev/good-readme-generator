@@ -90,7 +90,7 @@ if(data.InstallationInstructions != ``){
         ${data.InstallationInstructions}`;
 
     tableOfContentsData = tableOfContentsData + `
-    [Installation](#installation)`
+[Installation](#installation)<br>`
     console.log('installation info')
 
 }else{
@@ -110,7 +110,7 @@ if(data.UsageInfo != ``){
     ${data.UsageInfo}`;
 
     tableOfContentsData = tableOfContentsData + `
-    [Usage](#usage)`
+[Usage](#usage)<br>`
     console.log('usage info')
 
 }else{
@@ -130,7 +130,7 @@ if(data.Licensing != ``){
     ${data.Licensing}`;
 
     tableOfContentsData = tableOfContentsData + `
-    [License](#license)`
+[License](#license)<br>`
     console.log('license info')
 
 }else{
@@ -150,7 +150,7 @@ if(data.ContributionGuidelines != ``){
     ${data.ContributionGuidelines}`;
 
     tableOfContentsData = tableOfContentsData + `
-    [Contributing](#contributing)`
+[Contributing](#contributing)<br>`
     console.log('contributing info')
 
 }else{
@@ -170,7 +170,7 @@ if(data.TestInstructions != ``){
     ${data.TestInstructions}`;
 
     tableOfContentsData = tableOfContentsData + `
-    [Tests](#tests)`
+[Tests](#tests)`
     console.log('tests info')
 
 }else{
